@@ -15,7 +15,7 @@
 
 ```
 
-
+```java
 import java.util.Scanner;
 
 public class Main {
@@ -36,3 +36,4 @@ public class Main {
 		System.out.print(T.solution(str));
 	}
 }
+```
